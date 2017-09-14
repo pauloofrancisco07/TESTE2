@@ -12,7 +12,7 @@ teste 2
 	  
 	  <body>
 
-			<h1> Cruzeiro Passa!!</h1>	
+			<h1> Cruzeiro campeão!!</h1>	
 		    <p> Cruzeiro ganha nos penaltis.<br><strong>Thiago Neves</strong> acerta a última cobrança.</p>	
 
 			<img widrh="200"src="http://torcedores.uol.com.br/content/uploads/2017/08/Cruzeiro-x-Gr%C3%AAmio-Hudson.jpg"
